@@ -1,0 +1,377 @@
+[17-Apr-2015 15:20:56 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 15:21:44 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 15:23:18 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 17:18:43 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:12:01 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:12:19 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:12:29 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:18:02 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:18:05 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:18:58 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:19:22 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:21:23 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:21:38 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:30:12 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:30:13 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:32:46 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:32:51 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:35:17 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:35:56 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:36:00 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:36:27 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:37:05 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:37:15 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:38:46 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:39:42 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:40:08 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:54:02 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Use of undefined constant DATABASE_HOST - assumed 'DATABASE_HOST'' in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php:166
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php(166): Config::exceptionErrorHandler(8, 'Use of undefine...', '/home/ifdtempla...', 166, Array)
+#1 /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php(153): BidUsuarioBo::obtener(NULL, 'admin', 'admin', NULL)
+#2 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.login.mod.php(17): BidUsuarioBo::login('admin', 'admin')
+#3 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:55:51 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Use of undefined constant DATABASE_HOST - assumed 'DATABASE_HOST'' in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php:166
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php(166): Config::exceptionErrorHandler(8, 'Use of undefine...', '/home/ifdtempla...', 166, Array)
+#1 /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php(153): BidUsuarioBo::obtener(NULL, 'admin', 'admin', NULL)
+#2 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.login.mod.php(17): BidUsuarioBo::login('admin', 'admin')
+#3 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:56:27 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Use of undefined constant DATABASE_HOST - assumed 'DATABASE_HOST'' in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php:166
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php(166): Config::exceptionErrorHandler(8, 'Use of undefine...', '/home/ifdtempla...', 166, Array)
+#1 /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php(153): BidUsuarioBo::obtener(NULL, 'admin', 'admin', NULL)
+#2 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.login.mod.php(17): BidUsuarioBo::login('admin', 'admin')
+#3 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[21-Apr-2015 13:44:26 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'preg_match(): Compilation failed: invalid range in character class at offset 7' in /home/ifdtemplates/public_html/prog/frm/helpers/Upload.hlp.php:2475
+Stack trace:
+#0 [internal function]: Config::exceptionErrorHandler(2, 'preg_match(): C...', '/home/ifdtempla...', 2475, Array)
+#1 /home/ifdtemplates/public_html/prog/frm/helpers/Upload.hlp.php(2475): preg_match('/^([\\.-\\w]+)\\/(...', 'image/jpeg; cha...')
+#2 /home/ifdtemplates/public_html/prog/app/mcc/clases/BidPublicacion.class.php(88): upload->upload(Array)
+#3 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmPublicacion.mod.php(35): BidPublicacion->agregar()
+#4 {main}
+  thrown in /home/ifdtemplates/public_html/prog/frm/helpers/Upload.hlp.php on line 2475
+[19-May-2016 04:11:09 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_2' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[19-May-2016 04:11:32 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_2' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[19-May-2016 04:13:22 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[19-May-2016 04:22:09 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[19-May-2016 04:22:14 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[19-May-2016 04:22:20 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 20:19:38 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:20:35 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:20:38 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:20:46 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:20:46 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:20:46 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:20:47 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:21:18 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:21:20 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:21:21 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:21:21 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:21:21 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:21:29 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:21:29 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:21:29 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:28:21 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:28:23 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:28:23 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:28:23 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:28:23 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:28:23 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:30:04 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:30:14 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:30:15 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:30:17 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:30:17 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:30:18 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:34:15 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:34:18 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[20-May-2016 21:35:33 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[23-May-2016 16:26:06 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[07-Jun-2016 21:56:14 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[07-Jun-2016 21:56:41 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[07-Jun-2016 21:56:53 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[07-Jun-2016 21:58:53 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[03-Oct-2016 14:04:06 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[03-Oct-2016 14:04:26 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[03-Oct-2016 14:04:55 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[03-Oct-2016 14:05:00 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[03-Oct-2016 14:05:54 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[06-Oct-2016 22:18:42 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[06-Oct-2016 22:18:55 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[06-Oct-2016 22:26:44 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:129
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(129): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 129, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 129
+[07-Mar-2017 21:57:49 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[07-Mar-2017 22:04:12 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[07-Mar-2017 22:04:15 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[31-Jul-2017 15:37:11 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: write failed: Disk quota exceeded (122)' in Unknown:0
+Stack trace:
+#0 [internal function]: Config::exceptionErrorHandler(2, 'Unknown: write ...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[31-Jul-2017 15:37:40 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: write failed: Disk quota exceeded (122)' in Unknown:0
+Stack trace:
+#0 [intern[11-Oct-2017 18:24:57 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[11-Oct-2017 18:25:36 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[11-Oct-2017 18:25:42 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[11-Oct-2017 18:26:03 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[11-Oct-2017 18:26:04 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[11-Oct-2017 18:27:05 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[11-Oct-2017 19:29:29 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[11-Oct-2017 19:31:11 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[11-Oct-2017 19:31:19 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[11-Oct-2017 19:31:19 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54
+[11-Oct-2017 19:31:20 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined index: imagen_0' in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php:54
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php(54): Config::exceptionErrorHandler(8, 'Undefined index...', '/home/ifdtempla...', 54, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmNew.mod.php on line 54

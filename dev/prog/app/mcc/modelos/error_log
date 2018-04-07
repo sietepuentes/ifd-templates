@@ -1,0 +1,58 @@
+[17-Apr-2015 15:20:56 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 15:21:44 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 15:23:18 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 17:18:43 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:12:01 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:12:19 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:12:29 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:18:02 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:18:05 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:18:58 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:19:22 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:21:23 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:21:38 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:30:12 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:30:13 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:32:46 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:32:51 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:35:17 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:35:56 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:36:00 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:36:27 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:37:05 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:37:15 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:38:46 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:39:42 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:40:08 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:54:02 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Use of undefined constant DATABASE_HOST - assumed 'DATABASE_HOST'' in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php:166
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php(166): Config::exceptionErrorHandler(8, 'Use of undefine...', '/home/ifdtempla...', 166, Array)
+#1 /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php(153): BidUsuarioBo::obtener(NULL, 'admin', 'admin', NULL)
+#2 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.login.mod.php(17): BidUsuarioBo::login('admin', 'admin')
+#3 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:55:51 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Use of undefined constant DATABASE_HOST - assumed 'DATABASE_HOST'' in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php:166
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php(166): Config::exceptionErrorHandler(8, 'Use of undefine...', '/home/ifdtempla...', 166, Array)
+#1 /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php(153): BidUsuarioBo::obtener(NULL, 'admin', 'admin', NULL)
+#2 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.login.mod.php(17): BidUsuarioBo::login('admin', 'admin')
+#3 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[17-Apr-2015 18:56:27 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Use of undefined constant DATABASE_HOST - assumed 'DATABASE_HOST'' in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php:166
+Stack trace:
+#0 /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php(166): Config::exceptionErrorHandler(8, 'Use of undefine...', '/home/ifdtempla...', 166, Array)
+#1 /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php(153): BidUsuarioBo::obtener(NULL, 'admin', 'admin', NULL)
+#2 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.login.mod.php(17): BidUsuarioBo::login('admin', 'admin')
+#3 {main}
+  thrown in /home/ifdtemplates/public_html/prog/app/mcc/clases/BidUsuarioBo.class.php on line 166
+[21-Apr-2015 13:44:26 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'preg_match(): Compilation failed: invalid range in character class at offset 7' in /home/ifdtemplates/public_html/prog/frm/helpers/Upload.hlp.php:2475
+Stack trace:
+#0 [internal function]: Config::exceptionErrorHandler(2, 'preg_match(): C...', '/home/ifdtempla...', 2475, Array)
+#1 /home/ifdtemplates/public_html/prog/frm/helpers/Upload.hlp.php(2475): preg_match('/^([\\.-\\w]+)\\/(...', 'image/jpeg; cha...')
+#2 /home/ifdtemplates/public_html/prog/app/mcc/clases/BidPublicacion.class.php(88): upload->upload(Array)
+#3 /home/ifdtemplates/public_html/prog/app/mcc/modelos/bo.abmPublicacion.mod.php(35): BidPublicacion->agregar()
+#4 {main}
+  thrown in /home/ifdtemplates/public_html/prog/frm/helpers/Upload.hlp.php on line 2475
+[11-Mar-2016 12:55:34 UTC] PHP Fatal error:  Call to undefined method BidPublicacion::setColor() in /home/ifdtemplates/public_html/dev/prog/app/mcc/modelos/bo.abmPublicacion.mod.php on line 27
+[11-Mar-2016 12:55:45 UTC] PHP Fatal error:  Call to undefined method BidPublicacion::setColor() in /home/ifdtemplates/public_html/dev/prog/app/mcc/modelos/bo.abmPublicacion.mod.php on line 27
+[11-Mar-2016 12:57:11 UTC] PHP Fatal error:  Call to undefined method BidPublicacion::setColor() in /home/ifdtemplates/public_html/dev/prog/app/mcc/modelos/bo.abmPublicacion.mod.php on line 27

@@ -1,0 +1,29 @@
+body {
+}
+
+/*login*/
+#valign{position:absolute; top:30%;height:240px; width: 99%; text-align: center;}
+#formLogin{margin:0 auto; width:400px; height:365px; margin-top: -120px }
+#formLogin label{display:block;text-align:right;width:140px;float:left;}
+#formLogin .small{display:block;text-align:right;width:140px;font-size: 10px;}
+#formLogin input{float:left;padding:4px 2px;width:200px;margin:2px 0 20px 10px;}
+#formLogin #divbutton{float:left;position:relative;clear:both;padding:2px 0 20px 150px;}
+.cabezal{padding: 0.5em 1em 0.5em;margin: 0 0 5px 0; font-size: 34px; font-weight: 600}
+/*abm*/
+#wrapper{width:100%;text-align:center;font-size: 12px !important;}
+#container{margin: 0 auto;width: 910px;text-align: left;}
+#toolbar{clear: both;padding: 15px 0 0 0;height: 20px;display: block;font-size:72.5%;}
+.leao-ajax-loader {position:absolute;text-align:center;top:0;}
+
+input {
+    border: 1px solid #000000;
+    font-size: 12px;
+}
+select {
+    border: 1px solid #000000;
+    font-size: 12px;
+}
+
+
+
+

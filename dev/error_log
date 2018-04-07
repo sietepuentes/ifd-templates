@@ -1,0 +1,20 @@
+[11-Mar-2016 20:10:27 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: html' in /home/ifdtemplates/public_html/dev/generar.php:612
+Stack trace:
+#0 /home/ifdtemplates/public_html/dev/generar.php(612): Config::exceptionErrorHandler(8, 'Undefined varia...', '/home/ifdtempla...', 612, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/dev/generar.php on line 612
+[11-Mar-2016 20:10:31 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: html' in /home/ifdtemplates/public_html/dev/generar.php:626
+Stack trace:
+#0 /home/ifdtemplates/public_html/dev/generar.php(626): Config::exceptionErrorHandler(8, 'Undefined varia...', '/home/ifdtempla...', 626, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/dev/generar.php on line 626
+[21-Mar-2016 10:54:59 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: imgen' in /home/ifdtemplates/public_html/dev/generar.php:788
+Stack trace:
+#0 /home/ifdtemplates/public_html/dev/generar.php(788): Config::exceptionErrorHandler(8, 'Undefined varia...', '/home/ifdtempla...', 788, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/dev/generar.php on line 788
+[21-Mar-2016 10:55:32 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Undefined variable: imgen' in /home/ifdtemplates/public_html/dev/generar.php:791
+Stack trace:
+#0 /home/ifdtemplates/public_html/dev/generar.php(791): Config::exceptionErrorHandler(8, 'Undefined varia...', '/home/ifdtempla...', 791, Array)
+#1 {main}
+  thrown in /home/ifdtemplates/public_html/dev/generar.php on line 791

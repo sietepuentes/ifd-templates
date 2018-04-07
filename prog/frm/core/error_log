@@ -1,0 +1,2 @@
+[14-Apr-2015 22:01:30 UTC] PHP Fatal error:  Class 'PDOStatement' not found in /home/ifdtemplates/public_html/prog/frm/core/PDOStatementTester.php on line 3
+[16-Apr-2015 08:13:50 UTC] PHP Fatal error:  Class 'PDOStatement' not found in /home/ifdtemplates/public_html/prog/frm/core/PDOStatementTester.php on line 3
